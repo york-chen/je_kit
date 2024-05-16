@@ -18,7 +18,10 @@ dependencies:
   cached_network_image: ^3.2.1
   photo_view: ^0.14.0
   intl: ^0.17.0
-  image_gallery_saver: ^1.7.1
+  image_gallery_saver:
+    git:
+      url: https://github.com/hui-z/image_gallery_saver
+      ref: master
   package_info_plus: ^3.1.2
   pull_to_refresh: ^2.0.0
   path_provider: ^2.0.10
