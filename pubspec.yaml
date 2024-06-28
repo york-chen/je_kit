@@ -22,7 +22,7 @@ dependencies:
     git:
       url: https://github.com/hui-z/image_gallery_saver
       ref: master
-  package_info_plus: ^3.1.2
+  package_info_plus: ^6.0.0
   pull_to_refresh: ^2.0.0
   path_provider: ^2.0.10
   flutter_cache_manager: ^3.3.0
